@@ -1,0 +1,14 @@
+EmbryoMotion Version 1.1. - a software to analyse spontaneous tail contraction and photomotor response of zebrafish embryos.
+
+Copyright (C) 2022, Stefan Scholz, Willy Oesterheld - Helmholtz Centre for Environmental Research - UFZ (www.ufz.de, stefan.scholz@ufz.de).
+
+The software has been established as part of the research of the Department Bionalytical Ecotoxicology.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+
+Please note that the software has been written in Matlab und you will need a Matlab licence if you want to modify the code and compile a new version.
+In order to run a compiled version of the software (Operation System Windows 10, other versions have not been tested), an appropriate version of Matlab runtime has to be installed.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
